@@ -46,6 +46,8 @@ To get started with using this toolbox, refer to the detailed tutorials and exam
 
 Special thanks to the Nilearn and scikit-learn communities for their contributions to open-source neuroscience tools.
 
-![Uploading image.png…]()
+![HD-Running-Image](https://github.com/user-attachments/assets/8c5061f7-b6ac-4005-9069-ad7b9d4b999c) 
+keep going!
+
 
 
